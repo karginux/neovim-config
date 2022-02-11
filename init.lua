@@ -1,0 +1,16 @@
+-- @author: karginux
+require('settings')
+require('keymaps')
+require('plugins/use')
+require('plugins/dashboard')
+require('plugins/catppuccin')
+require('plugins/nvim-treesitter')
+require('plugins/lualine')
+require('plugins/nvim-autopairs')
+require('plugins/nvim-tree')
+require('plugins/fterm')
+require('plugins/indent-blankline')
+require('plugins/kommentary')
+require('plugins/lsp/nvim-lspconfig')
+require('plugins/lsp/nvim-cmp')
+
